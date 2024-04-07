@@ -1,0 +1,10 @@
+{
+    "name": "Minha Primeira Extensão",
+    "description": "Extensão para aprendizado",
+    "version": "1.0",
+    "permissions": [],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "manifest_version": 2
+}

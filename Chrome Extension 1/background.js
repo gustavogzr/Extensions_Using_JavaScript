@@ -1,0 +1,1 @@
+alert("Olá, eu sou um alerta gerado por uma extensão do Chrome!")
